@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nasih P S</h1>
-<h3 align="center">A passionate Computer Science Engineering student from India</h3>
+<h3 align="center">CSE graduate from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAC/coding.gif">
 
 
