@@ -68,6 +68,8 @@
   </a>
 </div>
 
+<h2></h2>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nasihps&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2&custom_title=Languages%20I%20have%20used" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=nasihps&locale=en&mode=weekly&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
