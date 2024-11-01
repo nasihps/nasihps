@@ -1,21 +1,24 @@
 <br clear="both">
 
+
 <h1 align="left">Software Developer</h1>
 
-<p align="left">- CSE<br>- India</p>
+<p align="left">🎓 CSE<br>📍 India</p>
 
-<div align="left">
-  <a href="https://linkedin.com/in/nasihps" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+
 
 
 <h2 align="left">Me</h2>
 <img align="right" height="350" src="https://media.tenor.com/Aw2-4sShkCUAAAAC/coding.gif"  />
 <p align="left">✨ Language: Python, Java, C Lang<br>📚 Learning: ReactJS, GenAI<br>🎯 Interests: CyberSecurity, DevOps<br>🎲 Fun fact: 80WPM</p>
 
-<h2 align="left">Tech</h2>
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2>💻 Tech</h2>
+    </summary>
+  </ul>
+</div>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
@@ -55,6 +58,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+<br>
+<h2>Socials</h2>
+<div align="left">
+  <a href="https://linkedin.com/in/nasihps" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 <div align="center">
