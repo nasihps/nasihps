@@ -2,9 +2,7 @@
 
 <h1 align="left">Software Developer</h1>
 
-
 <p align="left">- CSE<br>- India</p>
-
 
 <div align="left">
   <a href="https://linkedin.com/in/nasihps" target="_blank">
@@ -64,9 +62,6 @@
   <img src="https://streak-stats.demolab.com?user=nasihps&locale=en&mode=weekly&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=nasihps&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=What%20I%20have%20done" height="150" alt="stats graph"  />
 </div>
-
-<img src="https://raw.githubusercontent.com/nasihps/nasihps/output/snake.svg" alt="Snake animation" />
-
 
 <br clear="both">
 
